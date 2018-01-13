@@ -1,14 +1,22 @@
 #card {
-  align-content: center;
-  border: solid;
+  border-radius: 10px;
+  box-shadow: 7px 7px 5px 5px #ccc;
   padding: 10px;
-  width: 340px;
+  width: 300px;
   background-color: rgb(102, 204, 255);
+}
+
+#image {
+    width: 300px;
+    height: 200px;
+    border-radius: 8px;
 }
 
 #information {
   border: solid;
+  border-color: rgb(86, 136, 216);;
   padding: 10px;
+  border-radius: 8px;
 }
 
 #fact {
