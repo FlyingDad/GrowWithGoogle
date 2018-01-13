@@ -1,0 +1,24 @@
+#card {
+  align-content: center;
+  border: solid;
+  padding: 10px;
+  width: 340px;
+  background-color: rgb(102, 204, 255);
+}
+
+#information {
+  border: solid;
+  padding: 10px;
+}
+
+#fact {
+  font-style: italic;
+}
+
+#features-list {
+  list-style-type: none;
+}
+
+.list-items {
+  font-weight: bold;
+}
