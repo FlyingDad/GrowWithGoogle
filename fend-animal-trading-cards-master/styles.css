@@ -15,12 +15,13 @@
 #information {
   border: solid;
   border-color: rgb(86, 136, 216);;
-  padding: 10px;
+  padding: 0px 15px 0px 15px;
   border-radius: 8px;
 }
 
 #fact {
   font-style: italic;
+  text-align: center;
 }
 
 #features-list {
@@ -29,4 +30,8 @@
 
 .list-items {
   font-weight: bold;
+}
+
+#description {
+  text-align: center;
 }
